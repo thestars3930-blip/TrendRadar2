@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:42:44.323558+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-11T22:40:04.354292+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -73,8 +73,35 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 22时40分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 22时40分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 22时40分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -101,32 +128,6 @@
           "time_info": "[10时27分 ~ 16时51分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 19时42分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 19时42分]"
-        },
-        {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
           "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
@@ -149,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时34分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -179,7 +191,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -266,6 +278,17 @@
           "time_info": "[03时07分 ~ 03时43分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动即将结束",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
           "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
           "url": "https://flash.jin10.com/detail/20260311023938000800",
           "source": "金十数据",
@@ -338,6 +361,17 @@
           "time_info": "[05时56分 ~ 06时34分]"
         },
         {
+          "title": "特朗普称对伊行动即将结束",
+          "url": "https://www.douyin.com/hot/2427456",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
           "url": "https://flash.jin10.com/detail/20260311023003523800",
           "source": "金十数据",
@@ -373,6 +407,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "特朗普关于伊朗行动的言论发布后，标普500指数和纳斯达克100指数均升至盘中高点。",
+          "url": "https://flash.jin10.com/detail/20260311220850105800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "伊朗轰炸自家小学？白宫：特朗普有权表达看法",
           "url": "https://news.ifeng.com/c/8rOx8Jg1p7R",
           "source": "凤凰网",
@@ -382,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普称伊朗已“无物可打” 战争将很快结束",
+          "url": "https://flash.jin10.com/detail/20260311220723103800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -404,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”",
+          "url": "https://wallstreetcn.com/livenews/3068165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "特朗普可能在本周晚些时候下令切断与人工智能公司Anthropic的联系。",
@@ -450,6 +517,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美国总统特朗普：伊朗战争很快就会结束，“我什么时候想让它结束，它就会什么时候结束”。",
+          "url": "https://flash.jin10.com/detail/20260311220244999800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
           "url": "https://flash.jin10.com/detail/20260311011404351800",
           "source": "金十数据",
@@ -459,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已“几乎没有可打击的目标”了，与伊朗的战争很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20260311220157504800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "特朗普：要求伊朗清除可能已布设的水雷 否则将面临前所未有的军事后果",
@@ -530,7 +619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -540,8 +629,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 22时40分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -614,6 +703,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时56分]"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -737,6 +848,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特斯拉美股股价创两周新高，现涨2.6%；特斯拉上海超级工厂2月交付5.86万台，同比增长91%。",
+          "url": "https://wallstreetcn.com/livenews/3068150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "美股盘初，中概股阿特斯太阳能涨超4.9%，理想涨4.6%，小鹏涨2.8%，大全新能源涨2.3%，文远知行涨1.9%，比亚迪、贝壳、晶科能源涨超1%，蔚来涨0.8%。 小米、美团、拼多多、Boss直聘、奇富科技、唯品会、B站至多跌1.9%，华住、小马智行、腾讯音乐至多跌2.7%，世纪互联跌3%，万国数据跌4.1%，金山云跌4.5%，腾讯跌4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3068149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
