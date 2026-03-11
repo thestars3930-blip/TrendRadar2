@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T05:04:28.713919+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-12T06:55:28.870414+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
           "url": "https://wallstreetcn.com/articles/3767194",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
         },
         {
           "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
@@ -36,18 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
-          "url": "https://wallstreetcn.com/livenews/3068347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -69,9 +59,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "消息人士称，俄罗斯总统普京的特使德米特里耶夫正在佛罗里达州，会见美国总统特朗普政府的成员。",
@@ -102,9 +103,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
         },
         {
           "title": "特朗普将援引一项紧急法，为海上石油生产商Sable公司提供援助",
@@ -118,16 +131,29 @@
           "time_info": "03时55分"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
+          "title": "特朗普说对伊行动即将结束",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            8
+            26,
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
+        },
+        {
+          "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
+          "url": "https://wallstreetcn.com/livenews/3068347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时55分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -136,18 +162,6 @@
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
-        },
-        {
-          "title": "特朗普说对伊行动即将结束",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            23
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -165,6 +179,18 @@
           "time_info": "[03时55分 ~ 05时04分]"
         },
         {
+          "title": "美国总统特朗普宣称：当前美国工作的人数比历史上任何时候都多。",
+          "url": "https://wallstreetcn.com/livenews/3068342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时55分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -176,15 +202,16 @@
           "time_info": "[01时39分 ~ 01时40分]"
         },
         {
-          "title": "美国总统特朗普宣称：当前美国工作的人数比历史上任何时候都多。",
-          "url": "https://wallstreetcn.com/livenews/3068342",
-          "source": "华尔街见闻-快讯",
+          "title": "美官员称特朗普对伊朗反应有误判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            27,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时55分]"
         },
         {
           "title": "特朗普将动用紧急法案支持海上石油生产商Sable",
@@ -218,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "美国总统特朗普兜售低通胀和低抵押贷款利率。",
+          "url": "https://wallstreetcn.com/livenews/3068367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "特朗普称美国已击沉28艘伊朗布雷船",
+          "url": "https://wallstreetcn.com/livenews/3068366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "美国总统特朗普宣称：油价将下跌。",
@@ -270,9 +319,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普将在未来数日签署关于住房的命令。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3068358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "美国总统特朗普表示，已打击28艘伊朗布雷船。",
@@ -303,7 +363,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -314,7 +374,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -341,6 +401,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国总统特朗普：政府正设法维持石油供应的流动。 国际能源署（IEA）释放战略石油储备将大幅压低油价。 油价正在下跌，还将下跌。 油价将（继续）下跌，但我们不会提前离开（伊朗）。",
+          "url": "https://wallstreetcn.com/livenews/3068351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -350,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "特朗普称美国将“略微”削减战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260312052221538800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "特朗普谈打击伊朗：我们还没结束。",
@@ -369,9 +451,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普讲话过程中，一名现场观众晕倒，特朗普讲话中断。",
+          "url": "https://flash.jin10.com/detail/20260312051909855800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "特朗普：西班牙的领导层不太行。",
@@ -385,17 +478,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美官员称特朗普对伊朗反应有误判",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
           "title": "特朗普谈西班牙：他们表现糟糕，可能会切断与西班牙的贸易。",
           "url": "https://flash.jin10.com/detail/20260312004241003800",
           "source": "金十数据",
@@ -407,6 +489,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗问题）在任务完成之前我们不会离开。",
+          "url": "https://flash.jin10.com/detail/20260312051328694800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
           "title": "特朗普：我刚刚与多个国家的领导人进行了交谈。",
           "url": "https://flash.jin10.com/detail/20260312004138783800",
           "source": "金十数据",
@@ -416,12 +509,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）我们不想每隔两年就重蹈覆辙。",
+          "url": "https://flash.jin10.com/detail/20260312051052883800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "美国总统特朗普：美国已经摧毁了（伊朗）31艘布雷舰。",
+          "url": "https://flash.jin10.com/detail/20260312051032783800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "美国总统特朗普：国际能源署（IEA）决定动用战略石油储备将会“大幅”降低油价。",
+          "url": "https://flash.jin10.com/detail/20260312050947132800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -431,8 +557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -443,19 +569,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
         },
         {
-          "title": "周三（3月11日）纽约尾盘，现货黄金跌0.28%，报5176.92美元/盎司，北京时间09:03涨至5223.22美元刷新日高，随后逐步下挫，20:30发布美国CPI通胀数据后、美股盘初跌穿5150美元刷新日低。 COMEX黄金期货跌1.09%，报5184.80美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3068343",
+          "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3068371",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "06时55分"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
@@ -463,22 +589,47 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时55分]"
+        },
+        {
+          "title": "周三（3月11日）纽约尾盘，现货黄金跌0.28%，报5176.92美元/盎司，北京时间09:03涨至5223.22美元刷新日高，随后逐步下挫，20:30发布美国CPI通胀数据后、美股盘初跌穿5150美元刷新日低。 COMEX黄金期货跌1.09%，报5184.80美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3068343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时55分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.12%，报415.32点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.70%，报2915.41点，美股开盘之前大致持平，随后“跳空”走低、迅速刷新日低至2858.48点。 在美股时段交易的原材料指数收跌0.08%，金属与矿业指数收涨0.64%。",
           "url": "https://wallstreetcn.com/livenews/3068340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时55分]"
+        },
+        {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "06时55分"
         },
         {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
@@ -487,7 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -498,9 +649,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "格罗方德半导体（格芯）将回购大约3亿美元股票。 股东Mubadala将出售2000万股持股。 格芯（GFS）美股盘后跌超5.46%。",
+          "url": "https://wallstreetcn.com/livenews/3068357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "Atlassian Corp.裁员计划将影响到大约1600名雇员，占比大约10%。 Atlassian Corp.（TEAM）美股盘后涨6.03%。",
+          "url": "https://wallstreetcn.com/livenews/3068356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -520,7 +693,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -542,7 +715,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -553,7 +726,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -564,7 +737,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
