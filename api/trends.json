@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T01:40:44.007167+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T03:57:11.079786+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -48,8 +48,41 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
+        },
+        {
+          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
+          "url": "https://wallstreetcn.com/livenews/3069118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260313031932554800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
+          "url": "https://flash.jin10.com/detail/20260313031754519800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -61,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
+          "url": "https://flash.jin10.com/detail/20260313030815962800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         }
       ]
     },
@@ -76,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -87,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时57分]"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
@@ -105,8 +149,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
+          "url": "https://wallstreetcn.com/livenews/3069116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
           "url": "https://wallstreetcn.com/livenews/3069075",
@@ -117,6 +172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
+          "url": "https://wallstreetcn.com/livenews/3069106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         }
       ]
     }
