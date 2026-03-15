@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T17:53:41.455027+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-03-15T19:03:08.948171+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -33,19 +33,6 @@
           "time_info": "[01时04分 ~ 13时46分]"
         },
         {
-          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
-          "url": "https://www.cls.cn/detail/2312864",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 17时53分]"
-        },
-        {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
           "url": "https://wallstreetcn.com/articles/3767495",
           "source": "华尔街见闻",
@@ -55,6 +42,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时59分]"
+        },
+        {
+          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
+          "url": "https://www.cls.cn/detail/2312864",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 19时03分]"
         },
         {
           "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
@@ -79,6 +80,43 @@
           "time_info": "[01时04分 ~ 05时53分]"
         },
         {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 19时03分]"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
           "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
           "source": "凤凰网",
@@ -90,18 +128,6 @@
           "time_info": "[01时04分 ~ 07时56分]"
         },
         {
-          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
-          "url": "https://wallstreetcn.com/articles/3767534",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
           "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
           "url": "https://news.ifeng.com/c/8rUH3IUe3be",
           "source": "凤凰网",
@@ -111,6 +137,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时56分]"
+        },
+        {
+          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2313097",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 19时03分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰 确保霍尔木兹海峡通航安全",
@@ -137,18 +186,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时56分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 17时53分]"
         },
         {
           "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
@@ -185,49 +222,66 @@
           "time_info": "[01时04分 ~ 07时56分]"
         },
         {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2313097",
-          "source": "财联社热门",
-          "ranks": [
+            8,
             6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
-          "title": "美媒：特朗普呼吁法国协助确保霍尔木兹海峡安全，法方否认改变部署",
-          "url": "https://wallstreetcn.com/livenews/3070252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时03分]"
         },
         {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 19时03分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
+          "url": "https://flash.jin10.com/detail/20260315183906520800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "19时03分"
+        },
+        {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 19时03分]"
         },
         {
           "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
@@ -268,6 +322,18 @@
           "time_info": "[15时58分 ~ 17时53分]"
         },
         {
+          "title": "美媒：特朗普呼吁法国协助确保霍尔木兹海峡安全，法方否认改变部署",
+          "url": "https://wallstreetcn.com/livenews/3070252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普呼吁盟友共同维护霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260315030037071800",
           "source": "金十数据",
@@ -292,18 +358,6 @@
           "time_info": "[04时58分 ~ 07时56分]"
         },
         {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
           "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
           "url": "https://wallstreetcn.com/livenews/3070215",
           "source": "华尔街见闻-快讯",
@@ -311,30 +365,6 @@
             9,
             17,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016064576173598421",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -352,18 +382,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时46分 ~ 17时53分]"
-        },
-        {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 17时53分]"
         },
         {
           "title": "特朗普称已彻底击败伊朗",
@@ -440,7 +458,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -515,8 +533,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 17时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 19时03分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
