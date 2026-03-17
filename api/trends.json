@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:34:45.565433+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-03-17T23:45:38.471969+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -65,6 +65,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 07时02分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 23时45分]"
+        },
+        {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 23时45分]"
         },
         {
           "title": "中方回应特朗普称推迟一个月访华",
@@ -169,17 +193,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "特朗普政府请求法官重新考虑阻止针对鲍威尔刑事调查的裁决",
           "url": "https://flash.jin10.com/detail/20260317044129034800",
           "source": "金十数据",
@@ -202,15 +215,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
+          "title": "特朗普：不再需要北约国家协助，也不需要日韩和澳大利亚的帮助",
+          "url": "https://wallstreetcn.com/livenews/3071784",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
@@ -236,6 +249,31 @@
           "time_info": "[13时16分 ~ 16时09分]"
         },
         {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 23时45分]"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 23时45分]"
+        },
+        {
           "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
           "source": "澎湃新闻",
@@ -247,17 +285,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 19时34分]"
-        },
-        {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时08分 ~ 19时34分]"
         },
         {
           "title": "特朗普“三个很开心”，让全世界脊背发凉",
@@ -318,18 +345,6 @@
           "time_info": "[02时20分 ~ 07时02分]"
         },
         {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时08分 ~ 19时34分]"
-        },
-        {
           "title": "美澄清涉特朗普或推迟访华不实报道",
           "url": "https://wallstreetcn.com/livenews/3071393",
           "source": "华尔街见闻-快讯",
@@ -347,7 +362,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -413,7 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -427,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普：北约不想参与对伊行动，但我们不再需要帮助了",
+          "url": "https://flash.jin10.com/detail/20260317232415987800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
@@ -473,6 +499,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "爱尔兰总理米哈尔·马丁抵达白宫与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260317232214938800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普炮轰盟友“出工不出力” 霍尔木兹护航联军组建受阻",
           "url": "https://flash.jin10.com/detail/20260317014551425800",
           "source": "金十数据",
@@ -482,6 +519,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国总统特朗普：作为美国总统，作为迄今为止世界上最强大的国家，我们不需要任何人的帮助。",
+          "url": "https://flash.jin10.com/detail/20260317232144976800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：幸运的是，我们已经重创了伊朗的军事力量——他们的海军、空军、防空系统和雷达都已不复存在，或许最重要的是，他们的领导人几乎都已消失了，再也无法威胁我们、我们的中东盟友乃至全世界。",
+          "url": "https://flash.jin10.com/detail/20260317232124274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -495,6 +554,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "美国总统特朗普：我们不再需要日本、澳大利亚或韩国的支持。",
+          "url": "https://flash.jin10.com/detail/20260317232002970800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
           "url": "https://flash.jin10.com/detail/20260317014030515800",
           "source": "金十数据",
@@ -506,6 +576,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国总统特朗普：北约在我们需要时不会为我们做任何事。",
+          "url": "https://flash.jin10.com/detail/20260317231952547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
           "url": "https://wallstreetcn.com/livenews/3071191",
           "source": "华尔街见闻-快讯",
@@ -515,6 +596,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国的大多数北约“盟友”已告知我们，他们不想参与我们针对伊朗的军事行动。我们不再“需要”或渴望北约国家的援助。",
+          "url": "https://flash.jin10.com/detail/20260317231944101800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国纽约州就地铁项目资金冻结起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3071767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普成立联邦福利欺诈特别工作组 由万斯领导",
@@ -663,7 +766,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -674,8 +777,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 23时45分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -706,9 +809,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
@@ -721,6 +835,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 19时34分]"
+        },
+        {
+          "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
+          "url": "https://wallstreetcn.com/livenews/3071778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2315898",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
@@ -765,25 +901,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016896539008726692",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数16日下跌",
@@ -795,6 +914,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "恒天然：3月17日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期FAS拍卖均价4,330美元/吨。 批发奶粉价格指数下降4.0%，报3,709美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016896539008726692",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     }
