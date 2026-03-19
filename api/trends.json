@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:16:02.625827+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-03-19T13:19:14.793528+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -30,6 +30,28 @@
           "time_info": "[03时32分 ~ 05时53分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
           "url": "https://www.zhihu.com/question/2017526267604385905",
           "source": "知乎",
@@ -40,6 +62,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 07时16分]"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时32分 ~ 13时19分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -70,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时32分 ~ 13时19分]"
         },
         {
           "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
@@ -81,7 +125,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -92,17 +136,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 07时16分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -120,17 +153,6 @@
           "time_info": "[03时32分 ~ 07时16分]"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 07时16分]"
-        },
-        {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
           "source": "澎湃新闻",
@@ -141,6 +163,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 07时16分]"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
@@ -160,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -179,18 +212,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
           "url": "https://www.cls.cn/detail/2317455",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 13时19分]"
         },
         {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
@@ -199,7 +233,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -222,9 +256,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
+          "url": "https://flash.jin10.com/detail/20260319125418834800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -259,11 +304,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 07时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时32分 ~ 13时19分]"
         }
       ]
     }
