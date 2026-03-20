@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:02:25.956780+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-03-20T18:06:52.265657+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -30,6 +30,19 @@
           "time_info": "[02时02分 ~ 13时09分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
           "url": "https://news.ifeng.com/c/8rcnk4inq8M",
           "source": "凤凰网",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 07时09分]"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时08分 ~ 16时02分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -139,8 +140,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 18时06分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时02分]"
+          "time_info": "[16时02分 ~ 18时06分]"
         },
         {
           "title": "特朗普称告知以色列勿攻击伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -152,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
@@ -185,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
@@ -218,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "行业集体施压奏效！特朗普政府明确放弃石油出口禁令选项",
+          "url": "https://flash.jin10.com/detail/20260320172358241800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "美防长：世界应感谢特朗普",
@@ -263,11 +287,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 18时06分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
