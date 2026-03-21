@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-21T19:48:47.194878+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-21T21:56:04.120247+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
+        },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
           "url": "https://wallstreetcn.com/articles/3768030",
@@ -18,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时01分 ~ 19时48分]"
+          "appearance_count": 11,
+          "time_info": "[07时01分 ~ 21时56分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -33,21 +46,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时24分 ~ 19时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时24分 ~ 21时56分]"
         },
         {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3,
-            2
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -75,17 +88,18 @@
           "time_info": "[01时24分 ~ 05时04分]"
         },
         {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
           "ranks": [
             8,
-            6,
-            4
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -128,19 +142,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
-        },
-        {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -190,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 21时56分]"
         },
         {
           "title": "美国总统特朗普：英国本应行动更快。",
@@ -288,15 +300,15 @@
           "time_info": "[12时56分 ~ 15时11分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时48分]"
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普肖像将登美建国250周年纪念币",
@@ -387,6 +399,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
           "url": "https://flash.jin10.com/detail/20260321034511161800",
           "source": "金十数据",
@@ -396,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
@@ -643,8 +677,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
+        },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
@@ -660,15 +718,17 @@
           "time_info": "[01时24分 ~ 17时04分]"
         },
         {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 21时56分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -681,31 +741,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时48分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -776,6 +811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "美股三大指数收跌 超微电脑跌超30%",
@@ -898,7 +944,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -913,6 +959,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 12时56分]"
+        },
+        {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     }
