@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T19:50:30.533147+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-03-22T21:57:48.359529+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -32,6 +32,17 @@
           "time_info": "[01时00分 ~ 07时53分]"
         },
         {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 21时57分]"
+        },
+        {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
           "url": "https://wallstreetcn.com/articles/3768030",
           "source": "华尔街见闻",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时00分 ~ 17时05分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时50分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -154,8 +154,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 21时57分]"
+        },
+        {
+          "title": "市场消息：美国财长贝森特称，美国总统特朗普会不惜一切代价在伊朗达成目标；有足够的钱来支持军事行动。",
+          "url": "https://flash.jin10.com/detail/20260322212406137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -169,6 +180,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时05分 ~ 07时53分]"
+        },
+        {
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 21时57分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-22）",
@@ -194,6 +218,17 @@
           "time_info": "[15时53分 ~ 19时50分]"
         },
         {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 21时57分]"
+        },
+        {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
           "url": "https://wallstreetcn.com/livenews/3074479",
           "source": "华尔街见闻-快讯",
@@ -207,29 +242,6 @@
           "time_info": "[13时14分 ~ 17时05分]"
         },
         {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
-          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时50分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
-          "url": "https://www.cls.cn/detail/2320568",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时50分]"
-        },
-        {
           "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
           "url": "https://news.ifeng.com/c/8rhITNvbPgx",
           "source": "凤凰网",
@@ -239,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 17时05分]"
+        },
+        {
+          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
+          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时57分]"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -265,15 +288,15 @@
           "time_info": "[01时01分 ~ 01时55分]"
         },
         {
-          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
-          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
-          "source": "凤凰网",
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/articles/3768099",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "21时57分"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -287,15 +310,48 @@
           "time_info": "13时14分"
         },
         {
+          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我相信特朗普总统知道自己在做什么，而他所做的，我们也是一起在做。",
           "url": "https://flash.jin10.com/detail/20260322191333311800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "伊朗议长回应特朗普“最后通牒”",
+          "url": "https://www.toutiao.com/trending/7618960620453642250/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
+          "url": "https://www.cls.cn/detail/2320606",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "以色列总理内塔尼亚胡：美国总统特朗普希望国际社会对抗伊朗政权。",
@@ -304,7 +360,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -315,7 +371,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -331,15 +387,59 @@
           "time_info": "13时14分"
         },
         {
+          "title": "美国总统特朗普：如今伊朗被击败，美国最大的敌人就是激进左翼、极其无能的民主党！",
+          "url": "https://flash.jin10.com/detail/20260322202609721800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
           "url": "https://flash.jin10.com/detail/20260322185550503800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "美国总统特朗普：周一，美国移民及海关执法局（ICE）将前往机场，协助我们优秀的运输安全管理局（TSA）工作人员。",
+          "url": "https://flash.jin10.com/detail/20260322200100766800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/livenews/3074555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美军增兵、特朗普下通牒，伊朗称地面部队处于战备“巅峰状态”",
+          "url": "https://wallstreetcn.com/livenews/3074552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
@@ -448,7 +548,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
