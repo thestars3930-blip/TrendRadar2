@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T15:53:24.306061+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-03-22T17:05:51.028716+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 15时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 17时05分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 15时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 17时05分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -97,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 17时05分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -125,6 +125,17 @@
           "time_info": "[03时05分 ~ 07时53分]"
         },
         {
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
           "url": "https://flash.jin10.com/detail/20260322014423191800",
           "source": "金十数据",
@@ -138,18 +149,6 @@
           "time_info": "[03时05分 ~ 07时53分]"
         },
         {
-          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 15时53分]"
-        },
-        {
           "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
           "source": "澎湃新闻",
@@ -157,8 +156,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 17时05分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -166,7 +165,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            21
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 17时05分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 17时05分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 17时05分]"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -183,28 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时55分]"
-        },
-        {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -277,8 +289,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 15时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时00分 ~ 17时05分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
