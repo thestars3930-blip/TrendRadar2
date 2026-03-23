@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T13:51:13.664018+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-23T17:17:21.862964+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 17时17分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -138,6 +138,17 @@
           "time_info": "[03时16分 ~ 04时58分]"
         },
         {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -149,15 +160,15 @@
           "time_info": "[13时50分 ~ 13时51分]"
         },
         {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -181,9 +192,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -196,6 +218,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 03时17分]"
+        },
+        {
+          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
+          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -232,6 +265,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 04时58分]"
+        },
+        {
+          "title": "美议员要求特朗普政府官员国会作证",
+          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 17时17分]"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 17时17分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -278,39 +347,6 @@
           "time_info": "[01时02分 ~ 03时17分]"
         },
         {
-          "title": "美议员要求特朗普政府官员国会作证",
-          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
           "title": "特朗普借电视短剧嘲讽英国首相",
           "url": "https://www.cls.cn/detail/2320775",
           "source": "财联社热门",
@@ -333,6 +369,28 @@
           "time_info": "[01时02分 ~ 01时56分]"
         },
         {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
           "url": "https://flash.jin10.com/detail/20260323060003087800",
           "source": "金十数据",
@@ -350,7 +408,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
@@ -398,6 +456,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：Codex团队正忙于对整个系统进行几乎端到端的全面重构，以适应未来模型能力的扩展；而且很高兴有Codex来协助完成这些重构，否则这将耗费数月时间。",
+          "url": "https://flash.jin10.com/detail/20260323125725631800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -406,28 +492,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI Codex工程师Tibo：Codex团队正忙于对整个系统进行几乎端到端的全面重构，以适应未来模型能力的扩展；而且很高兴有Codex来协助完成这些重构，否则这将耗费数月时间。",
-          "url": "https://flash.jin10.com/detail/20260323125725631800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 17时17分]"
         }
       ]
     }
