@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T15:59:43.884472+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-03-28T17:57:00.726550+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -15,11 +15,24 @@
             12,
             10,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 15时59分]"
+          "appearance_count": 10,
+          "time_info": "[02时38分 ~ 17时57分]"
+        },
+        {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时57分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -35,6 +48,19 @@
           "time_info": "[02时38分 ~ 07时57分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时57分]"
+        },
+        {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
           "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
           "source": "凤凰网",
@@ -46,16 +72,15 @@
           "time_info": "[06时02分 ~ 07时57分]"
         },
         {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
+          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -136,6 +161,17 @@
           "time_info": "[02时38分 ~ 04时06分]"
         },
         {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时57分]"
+        },
+        {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3078502",
           "source": "华尔街见闻-快讯",
@@ -158,18 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
@@ -196,6 +220,17 @@
           "time_info": "[07时57分 ~ 13时17分]"
         },
         {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时57分]"
+        },
+        {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
           "url": "https://wallstreetcn.com/articles/3768556",
           "source": "华尔街见闻",
@@ -208,27 +243,17 @@
           "time_info": "[06时02分 ~ 13时17分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
-        },
-        {
           "title": "特朗普发出威胁：“下一个是古巴”",
           "url": "https://wallstreetcn.com/livenews/3078530",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 17时57分]"
         },
         {
           "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
@@ -236,11 +261,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 17时57分]"
         },
         {
           "title": "特朗普称霍尔木兹为特朗普海峡",
@@ -332,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "特朗普称必须尊重中国",
@@ -483,7 +498,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -624,8 +639,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 17时57分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -636,8 +651,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 17时57分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时57分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -665,28 +693,17 @@
           "time_info": "[02时38分 ~ 07时57分]"
         },
         {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
-        },
-        {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时57分]"
         },
         {
           "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
@@ -695,9 +712,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 17时57分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -780,7 +797,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -795,8 +812,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 15时59分]"
+          "appearance_count": 10,
+          "time_info": "[02时38分 ~ 17时57分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -806,11 +823,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 15时59分]"
+          "appearance_count": 10,
+          "time_info": "[02时38分 ~ 17时57分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -820,11 +838,12 @@
             18,
             16,
             14,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时38分 ~ 15时59分]"
+          "appearance_count": 10,
+          "time_info": "[02时38分 ~ 17时57分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -838,6 +857,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时38分 ~ 13时17分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
