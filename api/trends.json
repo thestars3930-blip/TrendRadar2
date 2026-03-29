@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T01:51:15.073527+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-03-30T03:50:35.917842+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -49,19 +49,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
           "url": "https://wallstreetcn.com/livenews/3078747",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -119,11 +120,12 @@
           "source": "微博",
           "ranks": [
             5,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -134,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         }
       ]
     },
@@ -152,8 +154,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -161,11 +163,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         }
       ]
     },
@@ -181,8 +184,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时50分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国3月官方制造业PMI将公布；周五非农重磅来袭却碰上美股休市",
