@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T05:56:21.476457+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-03T07:06:39.943283+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -67,11 +67,12 @@
           "url": "https://wallstreetcn.com/livenews/3081814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 07时06分]"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -80,11 +81,12 @@
           "ranks": [
             17,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -92,11 +94,12 @@
           "source": "微博",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 07时06分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -111,13 +114,35 @@
           "time_info": "[03时39分 ~ 05时56分]"
         },
         {
+          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
+          "url": "https://flash.jin10.com/detail/20260403061620774800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
+          "url": "https://wallstreetcn.com/livenews/3081824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
           "url": "https://wallstreetcn.com/livenews/3081802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -128,7 +153,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -161,7 +186,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -180,7 +205,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -194,6 +219,30 @@
           "time_info": "[00时15分 ~ 03时39分]"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
           "url": "https://wallstreetcn.com/livenews/3081707",
           "source": "华尔街见闻-快讯",
@@ -205,18 +254,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
-        },
-        {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
@@ -225,8 +262,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -237,8 +274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -247,11 +284,12 @@
           "ranks": [
             27,
             22,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -271,7 +309,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -282,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -293,7 +331,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -304,7 +342,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -315,7 +353,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -333,8 +371,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -342,11 +380,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -354,11 +393,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -367,11 +407,12 @@
           "ranks": [
             24,
             19,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -383,8 +424,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时06分]"
         }
       ]
     },
@@ -432,11 +473,12 @@
           "url": "https://flash.jin10.com/detail/20260403043416469800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 07时06分]"
         }
       ]
     }
