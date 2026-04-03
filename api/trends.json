@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-04T01:03:56.699628+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T03:56:17.424064+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
+          "url": "https://flash.jin10.com/detail/20260404032437560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
         {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
           "url": "https://wallstreetcn.com/livenews/3082282",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
+          "url": "https://wallstreetcn.com/livenews/3082313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -37,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -48,19 +70,53 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
         },
         {
           "title": "马克龙回怼特朗普",
           "url": "https://www.douyin.com/hot/2453352",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
+        },
+        {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "03时56分"
+        },
+        {
+          "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
+          "url": "https://wallstreetcn.com/livenews/3082306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
+          "url": "https://www.zhihu.com/question/2023328039937786913",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
@@ -83,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -120,6 +187,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
+        },
+        {
+          "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
+          "url": "https://wallstreetcn.com/livenews/3082305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -128,28 +224,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
         }
       ]
     },
@@ -179,11 +259,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时56分]"
         }
       ]
     }
