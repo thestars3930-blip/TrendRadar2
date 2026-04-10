@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-10T19:53:00.988816+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-04-10T21:20:37.765336+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 21时20分]"
+        },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
           "url": "https://wallstreetcn.com/articles/3769556",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 14时21分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 19时53分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -62,11 +62,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 21时20分]"
         },
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -78,17 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 04时09分]"
-        },
-        {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -157,16 +147,27 @@
           "time_info": "00时08分"
         },
         {
-          "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
-          "url": "https://www.zhihu.com/question/2025532903371580547",
-          "source": "知乎",
+          "title": "分析师：美民主党人将利用能源商品价格上涨攻击特朗普",
+          "url": "https://flash.jin10.com/detail/20260410210653904800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
           "ranks": [
             5,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 21时20分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -177,8 +178,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 21时20分]"
+        },
+        {
+          "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
+          "url": "https://www.zhihu.com/question/2025532903371580547",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 07时26分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -314,6 +327,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
           "url": "https://flash.jin10.com/detail/20260410063238426800",
           "source": "金十数据",
@@ -364,7 +388,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -452,7 +476,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -504,7 +528,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -553,6 +577,28 @@
           "time_info": "04时09分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3085913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410210125119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
           "url": "https://wallstreetcn.com/livenews/3085300",
           "source": "华尔街见闻-快讯",
@@ -573,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国3月CPI数据公布后，美股股指期货集体走高，纳指期货日内涨0.31%，标普500指数期货涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3085894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "贝莱德：市场对美股的盈利预期过于乐观",
@@ -666,8 +723,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 21时20分]"
         }
       ]
     }
