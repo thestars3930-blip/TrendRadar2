@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T06:42:41.209337+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-04-11T07:56:43.012221+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 07时56分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 07时56分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 07时56分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -52,6 +52,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反口污蔑：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
           "url": "https://flash.jin10.com/detail/20260411004405756800",
           "source": "金十数据",
@@ -61,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
@@ -99,6 +132,19 @@
           "time_info": "[01时00分 ~ 02时12分]"
         },
         {
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时56分]"
+        },
+        {
           "title": "特朗普：伊朗没有底牌",
           "url": "https://wallstreetcn.com/livenews/3086027",
           "source": "华尔街见闻-快讯",
@@ -121,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时01分]"
-        },
-        {
-          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3086110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时42分]"
         },
         {
           "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
@@ -158,6 +192,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -167,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
@@ -186,9 +242,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "事关霍尔木兹海峡，特朗普最新发声",
+          "url": "https://news.ifeng.com/c/8sDy2gGiv6K",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
@@ -200,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
@@ -293,7 +371,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -303,8 +381,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时56分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -314,8 +392,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时56分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -325,8 +414,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时56分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
@@ -377,7 +466,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -389,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
@@ -405,7 +505,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -415,8 +515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 07时56分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -426,8 +526,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 07时56分]"
+        },
+        {
+          "title": "Claude：提供安全建议与实用技巧。 随着网络安全工作的持续推进，Anthropic将更新相关指南。",
+          "url": "https://wallstreetcn.com/livenews/3086137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
