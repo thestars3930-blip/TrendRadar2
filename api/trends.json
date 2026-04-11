@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:39:52.791068+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-04-11T19:35:10.903340+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 19时35分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 19时35分]"
         },
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -56,6 +56,38 @@
           "time_info": "[01时00分 ~ 10时36分]"
         },
         {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时56分 ~ 19时35分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时56分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普：谈判结果24小时内明朗",
           "url": "https://news.ifeng.com/c/8sDlxLParYe",
           "source": "凤凰网",
@@ -77,36 +109,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 18时39分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 18时39分]"
         },
         {
           "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
@@ -131,6 +133,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "美国总统特朗普：数量庞大的、完全空载的油轮，其中一些是全球最大的油轮正驶往美国，（准备）在世界任何地方装载石油（和天然气）！",
+          "url": "https://flash.jin10.com/detail/20260411193219972800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反口污蔑：他的电影和演技才构成战争罪",
           "url": "https://wallstreetcn.com/livenews/3086139",
           "source": "华尔街见闻-快讯",
@@ -142,15 +155,15 @@
           "time_info": "07时56分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
-          "url": "https://flash.jin10.com/detail/20260411182741167800",
-          "source": "金十数据",
+          "title": "特朗普：大量完全空载的油轮，其中一些是全球最大的，目前正前往美国装载石油（以及天然气！）。",
+          "url": "https://wallstreetcn.com/livenews/3086220",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "19时35分"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
@@ -175,6 +188,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 03时01分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
+          "url": "https://flash.jin10.com/detail/20260411182741167800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
@@ -465,19 +490,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时39分]"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时35分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -490,8 +504,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时07分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时07分 ~ 19时35分]"
+        },
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -592,11 +617,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 18时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时56分 ~ 19时35分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -626,11 +652,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时35分]"
         },
         {
           "title": "美股巨震",
