@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:09:00.869688+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-04-16T21:56:40.608061+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -134,6 +134,17 @@
           "time_info": "[01时10分 ~ 10时58分]"
         },
         {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时56分]"
+        },
+        {
           "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
           "url": "https://www.cls.cn/detail/2345537",
           "source": "财联社热门",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 15时54分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时09分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -185,11 +185,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时09分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时56分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时56分]"
         },
         {
           "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
@@ -212,20 +226,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 19时09分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 21时56分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -272,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
@@ -442,7 +466,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -578,13 +602,57 @@
           "time_info": "[04时57分 ~ 05时58分]"
         },
         {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨近2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260416214246580800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "美股三大指数开盘走高，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。甲骨文涨超3%，公司宣布与AWS合作。核电股普涨，Oklo涨超8%，Nano Nuclear Energy涨超6%。台积电跌超1%，此前发布一季度业绩。雅培下跌4.5%，创下2023年以来最低盘中水平。“硅谷足力健”Allbirds开盘跌17%，此前曾飙升582%。",
+          "url": "https://wallstreetcn.com/livenews/3089402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "纽约梅隆银行第一季度调整后营收54.1亿美元，预期51.8亿美元。 第一季度调整后每股收益2.25美元，预期1.92美元。 纽约梅隆银行美股盘前涨1%。",
           "url": "https://wallstreetcn.com/livenews/3089243",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -642,12 +710,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美股开盘，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。台积电(TSM.N)开跌1.82%，其第一季度利润大增58%，公司预计第二季度营收为390亿至402亿美元；甲骨文(ORCL.N)开涨3.35%，此前公司宣布与亚马逊云服务合作。",
+          "url": "https://flash.jin10.com/detail/20260416213037420800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -716,6 +795,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "据The Information，谷歌与五角大楼讨论机密人工智能合作协议，洽谈使用Gemini模型，重建与军方关系。",
+          "url": "https://wallstreetcn.com/livenews/3089379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260416044116972800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时51分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3088777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时51分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度上涨2.83%，报85.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3089410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -743,41 +876,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "Claude",
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20260416044116972800",
-          "source": "金十数据",
+          "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
+          "url": "https://www.zhihu.com/question/2027774064589108421",
+          "source": "知乎",
           "ranks": [
-            2,
-            11,
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时51分]"
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
-          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3088777",
-          "source": "华尔街见闻-快讯",
+          "title": "Claude身份验证背后的博弈",
+          "url": "https://www.douyin.com/hot/2468481",
+          "source": "抖音",
           "ranks": [
-            3,
-            14,
-            28
+            29
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -805,23 +934,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时10分 ~ 19时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
-          "url": "https://www.zhihu.com/question/2027774064589108421",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         }
       ]
     }
