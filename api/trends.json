@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:42:44.418994+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-04-25T21:13:29.167012+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -43,17 +43,6 @@
           "time_info": "[00时07分 ~ 07时43分]"
         },
         {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时43分]"
-        },
-        {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -64,8 +53,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 21时13分]"
+        },
+        {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 21时13分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -284,6 +284,19 @@
           "time_info": "[01时53分 ~ 02时59分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时13分]"
+        },
+        {
           "title": "美伊谈判有望：伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -295,16 +308,16 @@
           "time_info": "[06时42分 ~ 06时43分]"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            9
+            12,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时42分]"
+          "time_info": "[19时42分 ~ 21时13分]"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -382,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -563,7 +565,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -787,17 +789,6 @@
           "time_info": "[10时46分 ~ 19时42分]"
         },
         {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
           "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
           "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
           "source": "澎湃新闻",
@@ -809,8 +800,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 21时13分]"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 00时08分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -844,9 +846,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "DeepSeek V4 Pro全面测评",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -921,6 +934,17 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "DeepSeek-V4“解锁”国产芯片",
           "url": "https://www.toutiao.com/trending/7632342182602477065/",
           "source": "今日头条",
@@ -970,8 +994,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时42分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[06时42分 ~ 21时13分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1101,8 +1125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 21时13分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -1254,11 +1278,12 @@
             11,
             13,
             16,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时46分 ~ 21时13分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
