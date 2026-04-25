@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:56:55.110341+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-04-25T19:42:44.418994+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时43分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[07时43分 ~ 19时42分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -92,6 +92,17 @@
           "time_info": "[00时07分 ~ 04时57分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 19时42分]"
+        },
+        {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
           "url": "https://wallstreetcn.com/livenews/3094320",
           "source": "华尔街见闻-快讯",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时43分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 18时56分]"
         },
         {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
@@ -226,6 +226,18 @@
           "time_info": "[02时59分 ~ 03时57分]"
         },
         {
+          "title": "特朗普最新不满意率公布",
+          "url": "https://www.toutiao.com/trending/7632256719716122665/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3094279",
           "source": "华尔街见闻-快讯",
@@ -283,6 +295,18 @@
           "time_info": "[06时42分 ~ 06时43分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
           "url": "https://www.zhihu.com/question/2030931346604778681",
           "source": "知乎",
@@ -314,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普最新不满意率公布",
-          "url": "https://www.toutiao.com/trending/7632256719716122665/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "卡塔尔埃米尔告诉美国总统特朗普，多哈将继续协调以支持巴基斯坦的调解努力。",
@@ -369,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -492,17 +516,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
           "url": "https://wallstreetcn.com/livenews/3094213",
           "source": "华尔街见闻-快讯",
@@ -550,7 +563,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -624,6 +637,18 @@
           "time_info": "[00时07分 ~ 16时59分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时42分]"
+        },
+        {
           "title": "Deepseek V4第一波测评来了！",
           "url": "https://wallstreetcn.com/articles/3770812",
           "source": "华尔街见闻",
@@ -655,18 +680,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时07分 ~ 10时46分]"
-        },
-        {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时56分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -766,11 +779,12 @@
             1,
             8,
             12,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
@@ -782,6 +796,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -809,18 +838,15 @@
           "time_info": "[00时07分 ~ 01时54分]"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            16,
-            15,
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -944,8 +970,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时42分 ~ 18时56分]"
+          "appearance_count": 11,
+          "time_info": "[06时42分 ~ 19时42分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1075,8 +1101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时42分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -1181,11 +1207,12 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 19时42分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -1226,11 +1253,12 @@
             9,
             11,
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 19时42分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
