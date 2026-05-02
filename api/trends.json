@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T06:50:12.719947+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-03T07:51:15.716408+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -62,20 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
-        },
-        {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -86,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -95,6 +83,18 @@
           "source": "知乎",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -123,19 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时50分]"
-        },
-        {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时51分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
@@ -147,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时51分]"
         },
         {
           "title": "特朗普政府加速推进向中东出售86亿美元武器",
@@ -162,8 +151,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 07时51分]"
+        },
+        {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时46分]"
         },
         {
           "title": "特朗普金卡计划为何失败",
@@ -178,17 +178,6 @@
           "time_info": "[00时54分 ~ 03时06分]"
         },
         {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
-        },
-        {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
           "url": "https://wallstreetcn.com/livenews/3098166",
           "source": "华尔街见闻-快讯",
@@ -198,8 +187,19 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时50分]"
+          "time_info": "[00时54分 ~ 01时50分]"
         },
         {
           "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
@@ -224,6 +224,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 03时06分]"
+        },
+        {
+          "title": "伊朗战争丨伊方公布最新谈判方案，特朗普回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         }
       ]
     },
@@ -239,8 +261,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -252,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时51分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -282,19 +304,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
           "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[03时06分 ~ 07时51分]"
         }
       ]
     },
@@ -311,11 +334,12 @@
             14,
             13,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时51分]"
         }
       ]
     }
