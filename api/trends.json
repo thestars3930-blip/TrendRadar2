@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T14:47:55.950030+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-07T17:52:16.051963+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 14时47分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 17时52分]"
         },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -44,17 +55,6 @@
           "time_info": "[00时46分 ~ 07时02分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时47分]"
-        },
-        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -72,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -112,6 +112,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
           "url": "https://wallstreetcn.com/livenews/3099511",
           "source": "华尔街见闻-快讯",
@@ -148,6 +159,18 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 17时52分]"
+        },
+        {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
           "url": "https://flash.jin10.com/detail/20260507013104665800",
           "source": "金十数据",
@@ -159,15 +182,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时47分"
+          "time_info": "17时52分"
         },
         {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
@@ -286,7 +309,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -341,7 +364,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -404,7 +427,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -414,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时01分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[06时01分 ~ 17时52分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -479,6 +502,17 @@
           "time_info": "[00时46分 ~ 07时02分]"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 17时52分]"
+        },
+        {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
           "url": "https://wallstreetcn.com/livenews/3099572",
           "source": "华尔街见闻-快讯",
@@ -513,15 +547,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "17时52分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -577,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -656,11 +701,12 @@
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 17时52分]"
         },
         {
           "title": "不差钱到主动融资DeepSeek经历了什么",
