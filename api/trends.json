@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-08T22:01:17.156090+08:00",
-  "total_titles_processed": 1528,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-05-08T23:44:52.265127+08:00",
+  "total_titles_processed": 1659,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普回应打击伊朗：只是轻微敲打",
@@ -44,6 +42,19 @@
           "time_info": "[00时55分 ~ 06时04分]"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 23时44分]"
+        },
+        {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035771230985380677",
           "source": "知乎",
@@ -52,11 +63,12 @@
             9,
             10,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 23时44分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -68,19 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 11时32分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 22时01分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
@@ -95,6 +94,30 @@
           "time_info": "[11时31分 ~ 19时22分]"
         },
         {
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时44分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 23时44分]"
+        },
+        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -105,29 +128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时56分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 22时01分]"
-        },
-        {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时01分]"
         },
         {
           "title": "特朗普发言时突然跑题吐槽打字软件",
@@ -429,6 +429,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普将欧盟批准关税协议的最后期限延长至7月4日",
           "url": "https://flash.jin10.com/detail/20260508034301244800",
           "source": "金十数据",
@@ -462,13 +473,24 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：正在针对最新关税裁决研究各种选项。 备用方案将确保特朗普的贸易政策得以落实。 预计在7月4日之前达成欧盟贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3100752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -515,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：战争部已向公众发布了第一批不明飞行物/不明空中现象（UFO/UAP）档案，供大家查阅和研究。为了实现完全透明，我荣幸地指示我的政府部门识别并提供与外星生命、不明空中现象和不明飞行物相关的政府档案。以往的政府在这个问题上未能做到透明，但有了这些新的文件和视频，人们可以自行判断“这到底是怎么回事？”祝大家愉快！",
+          "url": "https://flash.jin10.com/detail/20260508231252471800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -575,8 +608,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 23时44分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -721,7 +754,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -732,7 +765,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         }
@@ -882,7 +915,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
