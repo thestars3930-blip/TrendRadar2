@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:27:49.161324+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-10T22:57:58.926441+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -62,6 +62,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -123,6 +145,39 @@
           "time_info": "[19时56分 ~ 21时27分]"
         },
         {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "特朗普级战列舰能建成吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -181,7 +236,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -192,11 +247,12 @@
             14,
             16,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 22时57分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -236,13 +292,24 @@
           "time_info": "[07时54分 ~ 11时39分]"
         },
         {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
@@ -313,9 +380,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时57分]"
         }
       ]
     },
@@ -323,18 +390,6 @@
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
-        {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时52分]"
-        },
         {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
@@ -346,8 +401,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 22时57分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
