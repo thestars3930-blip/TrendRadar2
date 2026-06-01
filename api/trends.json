@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T07:04:18.759504+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-06-01T12:24:59.183712+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -81,6 +81,39 @@
           "time_info": "05时03分"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "叙过渡总统与特朗普通话谈取消制裁",
+          "url": "https://wallstreetcn.com/livenews/3112157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "铜价迎来关键月份 特朗普政府进口关税计划或更明朗",
+          "url": "https://flash.jin10.com/detail/20260601120522237800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
           "url": "https://flash.jin10.com/detail/20260601010048036800",
           "source": "金十数据",
@@ -109,9 +142,82 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "特朗普坚称美伊协议“明确禁止”伊朗拥核",
+          "url": "https://wallstreetcn.com/livenews/3112127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时24分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Anthropic、OpenAI、SpaceXAI、字节跳动、Coreweave(CRWV.O)和甲骨文云基础设施均计划采用Vera芯片。",
+          "url": "https://flash.jin10.com/detail/20260601121839275800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达(NVDA.O)Vera芯片的首批采用者。",
+          "url": "https://flash.jin10.com/detail/20260601121518785800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达Vera芯片的首批采用者。",
+          "url": "https://wallstreetcn.com/livenews/3112159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -137,7 +243,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -162,20 +268,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
+          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
+          "url": "https://wallstreetcn.com/livenews/3112161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     }
