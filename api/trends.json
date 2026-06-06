@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:08:17.132242+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-06-06T22:45:20.887085+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -19,6 +19,18 @@
           "time_info": "[02时02分 ~ 08时11分]"
         },
         {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 22时45分]"
+        },
+        {
           "title": "特朗普：将迅速结束伊朗战事",
           "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 15时49分]"
-        },
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 20时08分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
@@ -384,9 +396,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
@@ -491,7 +514,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -501,19 +524,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时10分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时10分 ~ 22时45分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时10分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时10分 ~ 22时45分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -551,13 +575,26 @@
           "time_info": "04时49分"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 22时45分]"
+        },
+        {
           "title": "如何看待美股一夜蒸发2万亿",
           "url": "https://www.toutiao.com/trending/7648181420996693523/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -582,18 +619,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 20时08分]"
         },
         {
           "title": "美股三大指数缘何齐跌",
@@ -662,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -820,8 +856,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 20时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时45分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -864,17 +900,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 08时11分]"
-        },
-        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -885,8 +910,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 22时45分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时56分 ~ 20时08分]"
+          "time_info": "[02时02分 ~ 08时11分]"
         }
       ]
     }
