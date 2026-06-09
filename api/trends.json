@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-10T01:28:55.614320+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-10T04:11:28.337163+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
+        },
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
@@ -19,26 +30,27 @@
           "time_info": "01时28分"
         },
         {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
+          "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "04时11分"
         },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
         },
         {
           "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
@@ -48,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
         },
         {
           "title": "高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动",
@@ -105,12 +117,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
+          "url": "https://flash.jin10.com/detail/20260610023402581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "机构：美股70%熊市信号被触发",
+          "url": "https://www.toutiao.com/trending/7649392765633056299/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普透露与内塔尼亚胡通话内容：“不希望损害协议，但你得自己判断”",
+          "url": "https://flash.jin10.com/detail/20260610034226370800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "特朗普称可能参与重建伊朗，但要拿走一半石油",
+          "url": "https://flash.jin10.com/detail/20260610033721122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
+          "url": "https://wallstreetcn.com/livenews/3116959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610025206405800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
+          "url": "https://wallstreetcn.com/livenews/3116986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美、布两油短线走高3美元，特朗普称伊朗击落美军阿帕奇直升机，美方将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260610004100839800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "微软(MSFT.O)：Anthropic最新的前沿模型Claude Fable 5现已登陆Microsoft Foundry。",
@@ -166,52 +306,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "AWS：Claude Fable 5在亚马逊Bedrock可用，在AWS的Claude Platform上也可用。",
+          "url": "https://wallstreetcn.com/livenews/3116977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
+          "title": "谷歌为Anthropic数据中心提供350亿美元融资担保",
+          "url": "https://flash.jin10.com/detail/20260610024250153800",
+          "source": "金十数据",
           "ranks": [
-            8
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "04时11分"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
-          "url": "https://wallstreetcn.com/livenews/3116959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "美、布两油短线走高3美元，特朗普称伊朗击落美军阿帕奇直升机，美方将作出回应。",
-          "url": "https://flash.jin10.com/detail/20260610004100839800",
+          "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
+          "url": "https://flash.jin10.com/detail/20260610023250783800",
           "source": "金十数据",
           "ranks": [
             22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Anthropic最新的前沿模型Claude Fable 5现已在Google Cloud上全面开放。",
+          "url": "https://flash.jin10.com/detail/20260610023003307800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "俄亥俄州监管重拳落空！谷歌在上诉法院赢得决定性胜利，免受“公共事业级”严苛规管",
+          "url": "https://wallstreetcn.com/livenews/3116973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数周二呈现出V形走势",
+          "url": "https://wallstreetcn.com/livenews/3116999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260610032333644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美元指数DXY在美国总统特朗普指责伊朗击落直升机后转涨，目前涨0.01%，报100.01。欧元兑美元EUR/USD的涨幅回落，目前上涨0.03%，报1.1537。",
+          "url": "https://flash.jin10.com/detail/20260610005846759800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,28 +418,12 @@
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY在美国总统特朗普指责伊朗击落直升机后转涨，目前涨0.01%，报100.01。欧元兑美元EUR/USD的涨幅回落，目前上涨0.03%，报1.1537。",
-          "url": "https://flash.jin10.com/detail/20260610005846759800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 04时11分]"
         }
       ]
     }
