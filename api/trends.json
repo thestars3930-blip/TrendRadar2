@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T02:05:14.990798+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-11T05:27:07.672717+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时27分]"
         },
         {
           "title": "美国总统特朗普的司法部询问大型银行是否不当地关闭了客户的银行账户。（华尔街日报）",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -59,30 +59,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时27分]"
         },
         {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
           "url": "https://wallstreetcn.com/articles/3774257",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时27分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时27分]"
         },
         {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
@@ -91,7 +93,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -102,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -113,7 +115,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -124,9 +126,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：由特朗普总统、万斯、库什纳、威特科夫和鲁比奥领导的谈判团队已准备好达成一项惠及伊朗的伟大协议。",
+          "url": "https://flash.jin10.com/detail/20260611045011815800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3117688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "特朗普：我喜欢通胀",
@@ -135,9 +159,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3117679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "特朗普称将“非常猛烈”打击伊朗",
@@ -146,16 +181,89 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时27分]"
+        },
+        {
+          "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
+          "url": "https://wallstreetcn.com/livenews/3117696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超4.1%，纳指ETF跌2%",
+          "url": "https://wallstreetcn.com/livenews/3117690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3117687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "甲骨文第四财季调整后营收191.8亿美元，分析师预期190.9亿美元。 第四财季软件营收68.2亿美元，分析师预期68.8亿美元；软件租赁营收18.8亿美元，分析师预期19.3亿美元；分析师软件支持营收49.4亿美元，预期49.8亿美元。 第四财季云基础设施营收（IAAS）为57.9亿美元，分析师预期57.2亿美元。 第四财季云收入（IAAS+SAAS）为99.1亿美元，分析师预期100亿美元。 确认2027财年总收入900亿美元的指引。 上调2027财年调整后每股收益（EPS）预期至8.05美元，符合分析师预期。 预计第一财季营收按恒定汇率将增长27%-29%，调整后EPS将为1.72-1.76美元、分析师预期1.69美元。 甲骨文（ORCL）美股盘后跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3117686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
+          "url": "https://flash.jin10.com/detail/20260611050209043800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
         {
           "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
           "url": "https://wallstreetcn.com/livenews/3117637",
@@ -163,7 +271,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -174,7 +282,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
@@ -191,7 +299,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -202,26 +310,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
         }
       ]
     },
@@ -236,7 +327,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
