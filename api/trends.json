@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-11T12:17:03.486237+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-11T17:14:52.280865+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 07时28分]"
-        },
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
           "url": "https://wallstreetcn.com/articles/3774340",
@@ -28,8 +17,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 12时17分]"
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 17时14分]"
+        },
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 07时28分]"
         },
         {
           "title": "特朗普公开了一个秘密，全世界都有点懵",
@@ -195,7 +195,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -255,6 +255,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "刚说谈判收尾就炸伊朗，特朗普对伊政策彻底陷入死循环",
+          "url": "https://flash.jin10.com/detail/20260611163939792800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3117679",
           "source": "华尔街见闻-快讯",
@@ -294,6 +305,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 17时14分]"
+        },
+        {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
@@ -304,17 +326,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时28分 ~ 12时17分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -333,11 +344,12 @@
           "url": "https://wallstreetcn.com/articles/3774357",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 17时14分]"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -386,6 +398,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
+          "url": "https://flash.jin10.com/detail/20260611014950889800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -421,45 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
-          "url": "https://flash.jin10.com/detail/20260611014950889800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
-          "url": "https://wallstreetcn.com/livenews/3117747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         }
       ]
     },
