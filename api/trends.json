@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T17:14:52.280865+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-06-11T22:03:27.219779+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时04分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[02时04分 ~ 22时03分]"
         },
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -98,6 +99,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美通胀创下3年新高之际，加息氛围浓厚，沃什会否背刺特朗普？点击观看金十研究员高阳直播分析<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260611214550373800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "特朗普：超过1亿桶石油通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3117654",
           "source": "华尔街见闻-快讯",
@@ -109,6 +121,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "特朗普称美军护航使逾1亿桶石油经霍尔木兹海峡进入市场",
           "url": "https://flash.jin10.com/detail/20260611015253880800",
           "source": "金十数据",
@@ -118,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普称今晚将更猛烈轰炸伊朗",
+          "url": "https://wallstreetcn.com/livenews/3118226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -156,6 +190,17 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，美伊谈判幕后发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
           "url": "https://wallstreetcn.com/livenews/3117647",
           "source": "华尔街见闻-快讯",
@@ -165,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普居然真的说出了“我爱通胀”，而且是在镜头前，让全美国都听到了。他对你们的轻蔑没有底线。",
@@ -233,6 +289,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "特朗普：美国曾试图向伊朗人民提供武器 但地区盟友“让人失望”",
+          "url": "https://flash.jin10.com/detail/20260611213134156800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3117688",
           "source": "华尔街见闻-快讯",
@@ -242,6 +309,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国总统特朗普：美国的飞机正在德黑兰上空飞行，他们毫无察觉。 伊朗正在与我们谈判以达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3118204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普倾向于占领哈格岛，质疑国家能否承受",
+          "url": "https://wallstreetcn.com/livenews/3118203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "特朗普：我喜欢通胀",
@@ -255,13 +344,24 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普说今晚将重创伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%8A%E6%99%9A%E5%B0%86%E9%87%8D%E5%88%9B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "刚说谈判收尾就炸伊朗，特朗普对伊政策彻底陷入死循环",
           "url": "https://flash.jin10.com/detail/20260611163939792800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -302,7 +402,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -312,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 22时03分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -326,6 +426,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时28分 ~ 12时17分]"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.42%，标普500指数涨0.5%，纳指涨0.5%。英特尔上涨7.4%，因美国银行将公司评级上调至“买入”。甲骨文下跌12%，创去年12月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3118229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -348,8 +459,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 22时03分]"
+        },
+        {
+          "title": "交火暂歇，特朗普威胁发动新袭击，美股高开，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3118216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -394,12 +538,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美股开盘，道指涨0.42%，标普500指数涨0.5%，纳指涨0.5%。甲骨文(ORCL.N)大跌11%，公司新财年计划融资翻倍至400亿美元。英特尔(INTC.O)涨7%，美银将其评级上调至“买入”。",
+          "url": "https://flash.jin10.com/detail/20260611213029258800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
@@ -408,7 +563,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -435,6 +590,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
           "url": "https://wallstreetcn.com/livenews/3117747",
           "source": "华尔街见闻-快讯",
@@ -449,7 +615,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
@@ -461,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "报道：谷歌正与三星洽谈生产部分TPU芯片",
+          "url": "https://wallstreetcn.com/livenews/3118215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
@@ -483,6 +660,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
