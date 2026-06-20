@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T20:00:48.399301+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-06-20T22:25:26.155219+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -33,6 +33,20 @@
           "time_info": "[00时08分 ~ 13时18分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
           "url": "https://news.ifeng.com/c/8u5ipgperKS",
           "source": "凤凰网",
@@ -45,19 +59,6 @@
           "time_info": "[00时08分 ~ 13时18分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 20时00分]"
-        },
-        {
           "title": "特朗普：今年将再次访问中国",
           "url": "https://news.ifeng.com/c/8u6mys1KcVF",
           "source": "凤凰网",
@@ -65,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 20时00分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 22时25分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -216,7 +217,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -308,6 +309,18 @@
           "time_info": "[08时13分 ~ 13时18分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
           "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
@@ -342,18 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 08时13分]"
-        },
-        {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 20时00分]"
         },
         {
           "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
@@ -569,6 +570,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普表示，古巴非常希望进行对话。",
           "url": "https://flash.jin10.com/detail/20260620021043624800",
           "source": "金十数据",
@@ -597,7 +609,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -608,7 +620,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -633,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
@@ -663,8 +686,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 20时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 22时25分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -676,8 +699,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时12分 ~ 20时00分]"
+          "appearance_count": 7,
+          "time_info": "[08时12分 ~ 22时25分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -688,8 +711,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 20时00分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 22时25分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -794,8 +817,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时25分]"
         },
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
