@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-24T17:37:46.951531+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-06-24T20:22:04.049658+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 20时22分]"
+        },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
           "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
@@ -42,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，检查员将被允许进入伊朗铀存放地点。",
+          "url": "https://flash.jin10.com/detail/20260624201135247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "特朗普政府拟提名白宫助理执掌FDA",
@@ -121,17 +144,6 @@
           "time_info": "13时04分"
         },
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
           "url": "https://flash.jin10.com/detail/20260624014248941800",
           "source": "金十数据",
@@ -154,6 +166,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
           "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
@@ -166,6 +189,30 @@
           "time_info": "[02时02分 ~ 04时21分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 20时22分]"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 20时22分]"
+        },
+        {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
@@ -176,29 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 06时18分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 17时37分]"
-        },
-        {
-          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
-          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
@@ -223,13 +247,24 @@
           "time_info": "04时21分"
         },
         {
+          "title": "特朗普：美国将释放部分伊朗资金 伊朗承诺不对霍尔木兹海峡船只收费",
+          "url": "https://wallstreetcn.com/livenews/3124020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
           "url": "https://www.cls.cn/detail/2407452",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -432,6 +467,17 @@
           "time_info": "13时04分"
         },
         {
+          "title": "美国财长贝森特：到特朗普任期结束时，赤字与GDP之比可降至4%以下。",
+          "url": "https://flash.jin10.com/detail/20260624195741293800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国总统特朗普：正在与伊朗达成协议，期待后续进展。",
           "url": "https://flash.jin10.com/detail/20260624011838787800",
           "source": "金十数据",
@@ -531,6 +577,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美国财长贝森特：（关于美联储及降息）美国总统特朗普对美联储主席沃什充满信心。",
+          "url": "https://flash.jin10.com/detail/20260624195529766800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国总统特朗普：美国正致力于与伊朗达成一项公平的协议，昨天有1900万桶石油经由霍尔木兹海峡运输。",
           "url": "https://flash.jin10.com/detail/20260624030509490800",
           "source": "金十数据",
@@ -540,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普公开和私下均表示他对美联储主席沃什有信心。",
+          "url": "https://flash.jin10.com/detail/20260624195505267800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "特朗普在宾夕法尼亚州的集会上声称，美国股市今天创下新高。目前纳指跌近2%。",
@@ -627,6 +695,18 @@
           "time_info": "[02时01分 ~ 08时02分]"
         },
         {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 20时22分]"
+        },
+        {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
           "url": "https://www.cls.cn/detail/2407391",
           "source": "财联社热门",
@@ -671,17 +751,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 13时04分]"
-        },
-        {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.66%，报326.80点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌4.41%，报2240.20点，亚太盘初以来缓慢地跌向2320点，北京时间21:30美股开盘时跳空下挫迅速跌穿2240点。 在美股时段交易的原材料指数收跌2.52%，报242.67点，跳空低开后，整体呈现出M形走势，跌幅一度在22:20收窄。 在美股时段交易的金属与矿业指数收跌3.75%，报279.09点。",
@@ -825,7 +894,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -880,6 +949,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 20时22分]"
+        },
+        {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -889,17 +969,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 04时21分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 17时37分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -995,11 +1064,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 20时22分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
