@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T11:48:56.219120+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-07-13T14:58:25.855707+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -48,9 +48,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 14时58分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -99,6 +99,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "特朗普命令全美降半旗悼念格雷厄姆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E7%BE%8E%E9%99%8D%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "特朗普透露格雷厄姆去世前晚曾通话，当时“除了有点累一切正常”",
           "url": "https://flash.jin10.com/detail/20260712214956192800",
           "source": "金十数据",
@@ -119,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -136,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 11时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 14时58分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -157,7 +179,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -186,7 +208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
