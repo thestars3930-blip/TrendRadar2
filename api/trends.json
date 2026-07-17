@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T18:03:04.503106+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-17T20:13:29.700496+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 21,
       "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时13分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -20,18 +32,6 @@
           "time_info": "[01时21分 ~ 08时08分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 18时03分]"
-        },
-        {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时13分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -257,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时08分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 20时13分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -664,6 +664,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时13分]"
+        },
+        {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
           "url": "https://flash.jin10.com/detail/20260717004805940800",
           "source": "金十数据",
@@ -673,18 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 18时03分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
