@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T22:02:36.735938+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-07-21T23:49:38.999282+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 53,
       "titles": [
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
@@ -63,6 +63,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美国总统特朗普宣称：伊朗想要见面，但我们没兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3137671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
           "source": "澎湃新闻",
@@ -86,6 +97,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美国总统特朗普：如果红海被封锁，将不得不处理相关业务。",
+          "url": "https://flash.jin10.com/detail/20260721231902762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "中东战火反噬特朗普！美国汽油再度飙破4美元大关！",
           "url": "https://flash.jin10.com/detail/20260721110522825800",
           "source": "金十数据",
@@ -97,15 +119,26 @@
           "time_info": "11时35分"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
+          "title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。",
+          "url": "https://flash.jin10.com/detail/20260721231816030800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及胡塞封锁）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260721231753948800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时49分"
         },
         {
           "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
@@ -119,6 +152,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
+          "url": "https://wallstreetcn.com/livenews/3137667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
           "url": "https://news.ifeng.com/c/8uvIalkczmR",
           "source": "凤凰网",
@@ -128,6 +172,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时35分 ~ 22时02分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时49分]"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
@@ -163,6 +219,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美国总统特朗普：我们对黎巴嫩感觉良好。 以色列正从黎巴嫩“撤军”。",
+          "url": "https://wallstreetcn.com/livenews/3137666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "特朗普行政令规定，若国防承包商未能替换存在风险的外国供应商，可能面临失去合同的后果。该行政令要求承包商优先用尽采购国内产品的选择，并绘制武器系统关键矿产及零部件供应链图谱。",
           "url": "https://flash.jin10.com/detail/20260721034306028800",
           "source": "金十数据",
@@ -185,6 +252,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "黎巴嫩总统奥恩感谢美国总统特朗普在签署框架协议方面取得的历史性成就。",
+          "url": "https://flash.jin10.com/detail/20260721231555478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
           "url": "https://flash.jin10.com/detail/20260721051526286800",
           "source": "金十数据",
@@ -194,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：将妥善对待黎巴嫩，给予应有的尊重。",
+          "url": "https://flash.jin10.com/detail/20260721231518766800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
@@ -207,6 +296,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "特朗普向共和党施压：本周必须投票支持预算决议",
           "url": "https://flash.jin10.com/detail/20260720234326387800",
           "source": "金十数据",
@@ -218,6 +318,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美国总统特朗普：我们将大力帮助黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260721231438448800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：将与黎巴嫩的黎巴嫩总统奥恩取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260721231419836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：敦促众议院共和党本周投票支持预算法案。",
           "url": "https://flash.jin10.com/detail/20260720234012581800",
           "source": "金十数据",
@@ -227,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩遭受重创已达数十年之久。",
+          "url": "https://flash.jin10.com/detail/20260721231410402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国总统特朗普：与黎巴嫩的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260721231407346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -260,6 +404,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：我们对黎巴嫩的情况感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20260721231244822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
+          "url": "https://wallstreetcn.com/livenews/3137656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普声称：与英国首相伯纳姆关系非常不错。 我们讨论了北海石油和贸易问题。 将在不久的将来与伯纳姆会见。",
@@ -328,6 +494,28 @@
           "time_info": "11时35分"
         },
         {
+          "title": "美国总统特朗普：黎巴嫩总统奥恩备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260721230922065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在白宫接见黎巴嫩总统，准备举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721230909971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
           "url": "https://flash.jin10.com/detail/20260721062036986800",
           "source": "金十数据",
@@ -356,7 +544,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -408,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -420,8 +608,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 23时49分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -447,6 +635,18 @@
           "time_info": "[07时59分 ~ 14时33分]"
         },
         {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时49分]"
+        },
+        {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
@@ -470,6 +670,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时59分 ~ 14时33分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时49分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -500,7 +711,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -522,18 +733,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -544,18 +744,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -626,9 +815,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
+          "url": "https://wallstreetcn.com/livenews/3137664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
@@ -686,6 +886,17 @@
           "time_info": "19时49分"
         },
         {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
           "url": "https://wallstreetcn.com/livenews/3137005",
           "source": "华尔街见闻-快讯",
@@ -703,7 +914,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -805,8 +1016,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时49分]"
         },
         {
           "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
@@ -837,7 +1048,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -849,8 +1060,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 23时49分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -862,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 14时33分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
+          "url": "https://wallstreetcn.com/livenews/3137668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -889,11 +1111,12 @@
             8,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 23时49分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
