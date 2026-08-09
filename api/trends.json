@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-09T22:38:21.705510+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-08-09T23:35:26.767478+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时37分 ~ 22时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时37分 ~ 23时35分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -87,8 +88,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[11时47分 ~ 23时35分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -110,11 +111,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时43分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时43分 ~ 23时35分]"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -122,11 +124,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时35分]"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -138,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
+          "url": "https://flash.jin10.com/detail/20260809224743402800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -255,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[11时47分 ~ 23时35分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -310,8 +324,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[11时47分 ~ 23时35分]"
         },
         {
           "title": "一边买黄金，一边买美股",
