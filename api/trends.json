@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:54:22.182181+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-08-13T14:20:36.047708+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -104,6 +104,18 @@
           "time_info": "[06时46分 ~ 07时45分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时20分]"
+        },
+        {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
           "url": "https://flash.jin10.com/detail/20260813044836122800",
           "source": "金十数据",
@@ -163,15 +175,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "14时20分"
         },
         {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
@@ -265,19 +277,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 14时20分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -316,18 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时45分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时54分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -407,7 +421,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -427,8 +441,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -436,11 +450,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 14时20分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -560,7 +575,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -571,8 +586,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 14时20分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -634,13 +649,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
+          "url": "https://www.cls.cn/detail/2452850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "谷歌首席科学家离职现场遭围堵",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A6%BB%E8%81%8C%E7%8E%B0%E5%9C%BA%E9%81%AD%E5%9B%B4%E5%A0%B5",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
