@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:36:19.845225+08:00",
-  "total_titles_processed": 1173,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-08-17T19:31:03.540452+08:00",
+  "total_titles_processed": 1278,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -18,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 19时31分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -44,6 +42,20 @@
           "time_info": "[01时22分 ~ 06时24分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 19时31分]"
+        },
+        {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
           "url": "https://news.ifeng.com/c/8vegxyVDbqF",
           "source": "凤凰网",
@@ -53,19 +65,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时26分 ~ 17时46分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 18时36分]"
         },
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
@@ -98,7 +97,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -120,7 +119,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -136,6 +135,28 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
+          "url": "https://flash.jin10.com/detail/20260817191721703800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
           "url": "https://wallstreetcn.com/livenews/3150083",
           "source": "华尔街见闻-快讯",
@@ -147,6 +168,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "特朗普称要大幅缩减美韩联合军演",
           "url": "https://flash.jin10.com/detail/20260817054805585800",
           "source": "金十数据",
@@ -156,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，以色列不该袭击加沙。",
+          "url": "https://flash.jin10.com/detail/20260817191605015800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
@@ -349,15 +392,70 @@
           "time_info": "06时24分"
         },
         {
+          "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
+          "url": "https://flash.jin10.com/detail/20260817191247640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼。",
+          "url": "https://flash.jin10.com/detail/20260817191233400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-17）",
           "url": "https://flash.jin10.com/detail/20260817181137295800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普谈及伊朗问题时表示，他“不着急”。",
+          "url": "https://flash.jin10.com/detail/20260817191005202800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，与伊朗伊斯兰革命卫队官员之间存在秘密沟通渠道。",
+          "url": "https://flash.jin10.com/detail/20260817190947776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
@@ -420,8 +518,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[15时01分 ~ 19时31分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -582,6 +680,19 @@
           "time_info": "[01时22分 ~ 09时26分]"
         },
         {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 19时31分]"
+        },
+        {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
@@ -593,19 +704,6 @@
           "time_info": "[01时22分 ~ 06时24分]"
         },
         {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 18时36分]"
-        },
-        {
           "title": "Gemini挑瓜 无中生瓜",
           "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -615,6 +713,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 16时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
