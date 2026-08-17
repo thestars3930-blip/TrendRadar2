@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:55:01.060095+08:00",
-  "total_titles_processed": 990,
-  "failed_sources": [],
+  "generated_at": "2026-08-17T17:46:18.679458+08:00",
+  "total_titles_processed": 1071,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -38,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 17时46分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -49,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 17时46分]"
         },
         {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
@@ -62,8 +64,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 17时46分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 17时46分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -168,17 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时55分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -367,11 +370,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 17时46分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -548,11 +552,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 17时46分]"
         },
         {
           "title": "Gemini挑瓜 无中生瓜",
